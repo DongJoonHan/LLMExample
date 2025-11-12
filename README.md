@@ -32,6 +32,7 @@
 - Clean Code 준수
 - 함수 순환복잡도 10 이하, 라인 수 80라인 이하
 - Javadoc 방식으로 주석 작성
+  - @brief, @param, @since, @author를 추가해줘.
 - Github 배포를 위한 README.md 생성. 설치 방법, 실행 방법, 실행 예제, 기여 방안 등 오픈소스 권장 방식의 README 파일 생성
 개발을 위한 작업 계획 제시해
 ```
